@@ -1,0 +1,54 @@
+Hesitation Bot — Custom Emoji IDs
+=================================
+Collected from the codebase (IDs you've configured / given for bot use).
+
+Numbers (ltop / ranks)
+----------------------
+rank_1 / ltop1     1529302071709401189
+rank_2 / ltop2     1529302090801741824
+rank_3 / ltop3     1529302232586129439
+rank_4 / ltop4     1529302254941896865
+rank_5 / ltop5     1529302273769869472
+rank_6 / ltop6     1529302296457121893
+rank_7 / ltop7     1529302315033428189
+rank_8 / ltop8     1529302347099017236
+rank_9 / ltop9     1529302365918724288
+rank_10 / ltop10   1529302396268707900
+
+UI / currency
+-------------
+info (emoji_352)                    1529291039670665408
+up                                  1529290896393244712
+crown (crown-1)                      1547413500400246925
+mouse                               1533892273232674867
+credits / points (photooutput…)     1533545637801365645
+point (POINTS_EMOJI)                1533274681694490735
+repup                               1533177561335464207
+repdown                             1533177681880023071
+check (!set confirm)                1543725515523883049
+
+Credits shop / donation crowns
+------------------------------
+vip_crown                           1535020856340906096
+elite_crown                         1535020883435851927
+supreme_crown                       1535020916004884664
+
+Crate rarity icons
+------------------
+common                              1533545637801365645
+uncommon                            1536882702559608852
+rare                                1536880298304868523
+epic                                1536881920493748225
+
+Chat Star edit crowns
+---------------------
+crown_yellow                        1532481460450361556
+crown_blue                          1532481493979369552
+crown_red                           1532481520525250630
+crown_orange                        1532481548371366049
+
+Chat Star ping reactions
+------------------------
+chatstar_react_1                    1533948814430437517
+chatstar_react_2                    1533949066969481216
+chatstar_react_3                    1533949496285855886

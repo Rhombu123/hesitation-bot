@@ -1,0 +1,31 @@
+{
+  "name": "hesitation-bot",
+  "version": "1.0.0",
+  "description": "Discord XP and daily message leaderboard bot",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && cp src/data/find-catalog.json dist/data/",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "generate:find-catalog": "tsx scripts/generate-find-catalog.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "ioredis": "^6.0.0",
+    "postgres": "^3.4.9",
+    "sharp": "^0.35.3",
+    "stripe": "^22.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
